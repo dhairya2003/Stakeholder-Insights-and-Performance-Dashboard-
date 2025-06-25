@@ -88,8 +88,8 @@ Accessing Role-Specific Data:
 
  Data Cleaning: Microsoft Excel / Tableau Prep
 
- Platform: Tableau Public (if hosted)
-
+ Platform: Tableau Public 
+ 
  Version Control: Git + GitHub
 
 . Future Improvements--->
