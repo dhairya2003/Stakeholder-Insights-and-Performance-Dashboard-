@@ -1,14 +1,13 @@
 # Stakeholder-Insights-and-Performance-Dashboard-
  Stakeholder Insights and Performance Dashboard
-________________________________________
+
 Purpose:
 The dashboard provides a comprehensive view of key business metrics and data insights related to stakeholders, insurers, and policy performance. It enables stakeholders to analyse premium trends, profitability, and asset distribution to make data-driven decisions.
-________________________________________
-
 
  
 
 Requirements:
+
 1. Charts and Visualizations:
  
 •	Compare the total value created by different insurers: Displays the total value created for a comparative analysis among insurers.
@@ -64,7 +63,27 @@ Requirements:
 7. User Access:
 
 •	Role-based access: Stakeholders with different roles have specific levels of data visibility.
-________________________________________
+
+
+Tools & Technologies--->
+
+Visualization: Tableau Desktop
+
+Data Cleaning: Microsoft Excel / Tableau Prep
+
+Platform: Tableau Public (if hosted)
+
+Version Control: Git + GitHub
+
+Future Improvements--->
+
+Add predictive analytics to forecast performance trends.
+
+Integrate real-time data feed via Tableau Server or API.
+
+Enhance stakeholder segmentation using clustering techniques.
+
+
 Usage Instructions:
 
 Navigating the Dashboard:
