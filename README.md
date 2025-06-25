@@ -22,7 +22,7 @@ Requirements:
 
 •	Represent the distribution of assets under management across stakeholders: Bar or treemap visualizations display how assets are distributed among stakeholders.
 
-3. Key Performance Indicators (KPIs):
+2. Key Performance Indicators (KPIs):
 
 •	Display the total premium collected: KPI card summarizing the total amount of premiums collected.
 
@@ -32,7 +32,7 @@ Requirements:
 
 •	Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.
 
-4. Filters:
+3. Filters:
 
 •	Filter data by city: Dropdown menu to focus data visualization on specific regions.
 
@@ -44,7 +44,7 @@ Requirements:
 
 •	Enable filtering by gender for demographic insights: Gender filter to separate male and female stakeholder data.
 
-5. Interactivity:
+4. Interactivity:
 
 •	Enable charts to dynamically filter other visuals when clicked: Clicking a chart segment applies filters to other dashboard elements.
 
@@ -52,7 +52,7 @@ Requirements:
 
 •	Ensure filters and KPIs update dynamically based on selections: All dashboard elements refresh based on applied filters or clicks.
 
-6. Export Options:
+5. Export Options:
 
 •	PDF Export Button: Dedicated button to download the dashboard as a PDF.
 
@@ -60,22 +60,39 @@ Requirements:
 
 •	Include a light watermark with the company's branding on the exported PDF: Branding ensures a professional and consistent look.
 
-7. User Access:
+6. User Access:
 
 •	Role-based access: Stakeholders with different roles have specific levels of data visibility.
 
 
-Tools & Technologies--->
+Usage Instructions:
 
-Visualization: Tableau Desktop
+Navigating the Dashboard:
 
-Data Cleaning: Microsoft Excel / Tableau Prep
+1.	Use filters located at the top or side of the dashboard to refine data by city, tenure, date, stakeholder, or gender.
+2.	Interact with charts by clicking on segments to dynamically update other dashboard visuals.
+3.	Hover over any chart to view detailed tooltips for additional insights.
+Exporting Data:
 
-Platform: Tableau Public (if hosted)
+1.	Click the Export to PDF button located in the toolbar.
+2.	Confirm the export options (e.g., filters and applied selections).
+3.	The PDF file will include all visible elements, KPIs, and filters, along with a light watermark.
+Accessing Role-Specific Data:
 
-Version Control: Git + GitHub
+1.	Log in with your assigned credentials.
+2.	Your role determines the data you can view (e.g., insurers, stakeholders, policy data).
 
-Future Improvements--->
+. Tools & Technologies--->
+
+ Visualization: Tableau Desktop
+
+ Data Cleaning: Microsoft Excel / Tableau Prep
+
+ Platform: Tableau Public (if hosted)
+
+ Version Control: Git + GitHub
+
+. Future Improvements--->
 
 Add predictive analytics to forecast performance trends.
 
@@ -83,20 +100,5 @@ Integrate real-time data feed via Tableau Server or API.
 
 Enhance stakeholder segmentation using clustering techniques.
 
-
-Usage Instructions:
-
-Navigating the Dashboard:
-1.	Use filters located at the top or side of the dashboard to refine data by city, tenure, date, stakeholder, or gender.
-2.	Interact with charts by clicking on segments to dynamically update other dashboard visuals.
-3.	Hover over any chart to view detailed tooltips for additional insights.
-Exporting Data:
-1.	Click the Export to PDF button located in the toolbar.
-2.	Confirm the export options (e.g., filters and applied selections).
-3.	The PDF file will include all visible elements, KPIs, and filters, along with a light watermark.
-Accessing Role-Specific Data:
-1.	Log in with your assigned credentials.
-2.	Your role determines the data you can view (e.g., insurers, stakeholders, policy data).
-________________________________________
 
 
