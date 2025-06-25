@@ -6,7 +6,7 @@ The dashboard provides a comprehensive view of key business metrics and data ins
 
  
 
-Requirements:
+ Requirements:
 
 1. Charts and Visualizations:
  
